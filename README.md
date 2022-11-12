@@ -1,6 +1,8 @@
 # `sap4j`
 A simple Java library for parsing command-line arguments.
 
+![build](https://img.shields.io/github/workflow/status/itstotallyjan/sap4j/Tests) ![last commit](https://img.shields.io/github/last-commit/itstotallyjan/sap4j)
+
 ### [`how to use`](#how-to-use-it) **|** [`adding to your project`](#adding-sap4j-to-your-project) **|** [`contributing`](#contributing)
 
 ### `how to use it`
