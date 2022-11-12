@@ -62,7 +62,7 @@ repositories {
 sap4j Dependency
 ```gradle
 dependencies {
-  implementation 'com.github.itstotallyjan:sap4j:-SNAPSHOT'
+  implementation 'com.github.itstotallyjan:sap4j:{VERSION}'
 }
 ```
 
