@@ -41,7 +41,7 @@ public class Argument {
      * @return Whether the argument has a value
      */
     public boolean hasValue() {
-        return this.value == null;
+        return this.value != null;
     }
 
     @Override
