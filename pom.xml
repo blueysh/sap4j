@@ -6,7 +6,7 @@
 
     <groupId>sap4j</groupId>
     <artifactId>sap4j</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
